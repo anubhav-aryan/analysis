@@ -1,0 +1,109 @@
+================================================================================
+📊 BUBBLE COHORT COMPREHENSIVE BUSINESS ANALYSIS REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+Overall Performance Score: -2.8%
+Metrics Outperforming Benchmark: 15/34 (44.1%)
+Status: 🟠 NEEDS ATTENTION
+
+📊 OVERALL ANALYSIS
+----------------------------------------
+Section Performance: 1.6%
+
+🏆 TOP PERFORMERS:
+   • User Base: 1897.00 vs 1637.00 (+15.9%)
+   • Session Duration: 48.54 vs 47.70 (+1.8%)
+   • Spotlight Adoption: 2.06 vs 2.03 (+1.5%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Scanning Adoption: 7.00 vs 7.70 (-9.1%)
+   • Session Value: 302.20 vs 303.90 (-0.6%)
+   • DM Engagement: 2.40 vs 2.40 (+0.0%)
+
+📊 SPOTLIGHT ANALYSIS
+----------------------------------------
+Section Performance: -8.0%
+
+🏆 TOP PERFORMERS:
+   • Recents Usage: 42.60 vs 41.90 (+1.7%)
+   • Quick Actions Usage: 18.26 vs 18.05 (+1.2%)
+   • Number Button Adoption: 5.97 vs 5.95 (+0.3%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Tap Interactions: 73.00 vs 217.90 (-66.5%)
+   • Paste Adoption: 6.60 vs 6.80 (-2.9%)
+   • Paste Button CTR: 16.67 vs 17.04 (-2.2%)
+`
+📊 DM ANALYSIS
+----------------------------------------
+Section Performance: -2.6%
+
+🏆 TOP PERFORMERS:
+   • Menu Adoption: 6.14 vs 5.97 (+2.8%)
+   • Menu Usage: 13.53 vs 13.21 (+2.4%)
+   • Pin Adoption: 4.72 vs 4.61 (+2.4%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • DM Payment Usage: 1.64 vs 2.53 (-35.2%)
+   • Re-engagement Rate: 41.51 vs 41.53 (-0.0%)
+   • Session Duration: 25.00 vs 25.00 (+0.0%)
+
+📊 HOME ANALYSIS
+----------------------------------------
+Section Performance: 6.2%
+
+🏆 TOP PERFORMERS:
+   • Scanner Usage Ratio: 69.85 vs 65.77 (+6.2%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Scanner Usage Ratio: 69.85 vs 65.77 (+6.2%)
+
+📊 BUBBLE ANALYSIS
+----------------------------------------
+Section Performance: 3.3%
+
+🏆 TOP PERFORMERS:
+   • Bubble Adoption: 97.72 vs 91.50 (+6.8%)
+   • Transaction Rate: 1.70 vs 1.60 (+6.2%)
+   • Average Transaction Size: 385.70 vs 385.70 (+0.0%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Average Transaction Size: 385.70 vs 385.70 (+0.0%)
+   • Payment Conversion: 0.50 vs 0.50 (+0.0%)
+   • Transaction Rate: 1.70 vs 1.60 (+6.2%)
+
+📊 PAYMENT ANALYSIS
+----------------------------------------
+Section Performance: -6.8%
+
+🏆 TOP PERFORMERS:
+   • Bubble Transaction Rate: 1.70 vs 1.60 (+6.2%)
+   • Payment Completion Time: 54.00 vs 53.00 (+1.9%)
+   • Average Transaction Size: 385.70 vs 385.70 (+0.0%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • DM Payment Usage: 1.64 vs 2.53 (-35.2%)
+   • Average Transaction Size: 385.70 vs 385.70 (+0.0%)
+   • Payment Completion Time: 54.00 vs 53.00 (+1.9%)
+
+💡 STRATEGIC RECOMMENDATIONS
+----------------------------------------
+1. PRIORITY FOCUS: Spotlight
+   - Current performance: -8.0%
+   - Requires immediate attention and resource allocation
+
+2. LEVERAGE STRENGTHS: Home
+   - Current performance: 6.2%
+   - Scale successful practices to other areas
+
+3. MONITORING & OPTIMIZATION:
+   - Implement weekly performance tracking
+   - Set up automated alerts for significant changes
+   - Regular A/B testing for improvement opportunities
+
+💼 BUSINESS IMPACT ASSESSMENT
+----------------------------------------
+Bubble Cohort Size: 1,897 users
+Risk Level: MEDIUM - Performance gaps affecting engagement

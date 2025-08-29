@@ -1,0 +1,109 @@
+================================================================================
+📊 SLS  COHORT COMPREHENSIVE BUSINESS ANALYSIS REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+Overall Performance Score: -1.5%
+Metrics Outperforming Benchmark: 18/34 (52.9%)
+Status: 🟠 NEEDS ATTENTION
+
+📊 OVERALL ANALYSIS
+----------------------------------------
+Section Performance: 5.0%
+
+🏆 TOP PERFORMERS:
+   • Spotlight Adoption: 2.77 vs 2.03 (+36.5%)
+   • DM Engagement: 2.60 vs 2.40 (+8.3%)
+   • Scanning Adoption: 8.20 vs 7.70 (+6.5%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • User Base: 1219.00 vs 1637.00 (-25.5%)
+   • Session Duration: 48.00 vs 47.70 (+0.6%)
+   • Session Value: 315.80 vs 303.90 (+3.9%)
+
+📊 SPOTLIGHT ANALYSIS
+----------------------------------------
+Section Performance: -9.0%
+
+🏆 TOP PERFORMERS:
+   • Swipe Interactions: 111.00 vs 111.00 (+0.0%)
+   • Search Efficiency: 9.00 vs 9.00 (+0.0%)
+   • Paste Button CTR: 17.04 vs 17.04 (+0.0%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Tap Interactions: 74.90 vs 217.90 (-65.6%)
+   • Recents Usage: 35.50 vs 41.90 (-15.3%)
+   • Swipe Interactions: 111.00 vs 111.00 (+0.0%)
+
+📊 DM ANALYSIS
+----------------------------------------
+Section Performance: 0.1%
+
+🏆 TOP PERFORMERS:
+   • Menu Usage: 16.05 vs 13.21 (+21.5%)
+   • Pin Adoption: 5.35 vs 4.61 (+16.1%)
+   • Menu Adoption: 6.85 vs 5.97 (+14.7%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • DM Payment Usage: 1.39 vs 2.53 (-45.1%)
+   • Message Button Clicks: 88.00 vs 108.00 (-18.5%)
+   • Message Frequency: 0.05 vs 0.05 (-3.9%)
+
+📊 HOME ANALYSIS
+----------------------------------------
+Section Performance: 7.0%
+
+🏆 TOP PERFORMERS:
+   • Scanner Usage Ratio: 70.35 vs 65.77 (+7.0%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Scanner Usage Ratio: 70.35 vs 65.77 (+7.0%)
+
+📊 BUBBLE ANALYSIS
+----------------------------------------
+Section Performance: 4.3%
+
+🏆 TOP PERFORMERS:
+   • Transaction Rate: 1.80 vs 1.60 (+12.5%)
+   • Average Transaction Size: 395.00 vs 385.70 (+2.4%)
+   • Bubble Adoption: 93.57 vs 91.50 (+2.3%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Payment Conversion: 0.50 vs 0.50 (+0.0%)
+   • Bubble Adoption: 93.57 vs 91.50 (+2.3%)
+   • Average Transaction Size: 395.00 vs 385.70 (+2.4%)
+
+📊 PAYMENT ANALYSIS
+----------------------------------------
+Section Performance: -6.1%
+
+🏆 TOP PERFORMERS:
+   • Bubble Transaction Rate: 1.80 vs 1.60 (+12.5%)
+   • Payment Completion Time: 56.00 vs 53.00 (+5.7%)
+   • Average Transaction Size: 395.00 vs 385.70 (+2.4%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • DM Payment Usage: 1.39 vs 2.53 (-45.1%)
+   • Average Transaction Size: 395.00 vs 385.70 (+2.4%)
+   • Payment Completion Time: 56.00 vs 53.00 (+5.7%)
+
+💡 STRATEGIC RECOMMENDATIONS
+----------------------------------------
+1. PRIORITY FOCUS: Spotlight
+   - Current performance: -9.0%
+   - Requires immediate attention and resource allocation
+
+2. LEVERAGE STRENGTHS: Home
+   - Current performance: 7.0%
+   - Scale successful practices to other areas
+
+3. MONITORING & OPTIMIZATION:
+   - Implement weekly performance tracking
+   - Set up automated alerts for significant changes
+   - Regular A/B testing for improvement opportunities
+
+💼 BUSINESS IMPACT ASSESSMENT
+----------------------------------------
+SLS  Cohort Size: 1,219 users
+Risk Level: MEDIUM - Performance gaps affecting engagement

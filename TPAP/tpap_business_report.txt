@@ -1,0 +1,109 @@
+================================================================================
+📊 TPAP COHORT COMPREHENSIVE BUSINESS ANALYSIS REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+Overall Performance Score: -14.2%
+Metrics Outperforming Benchmark: 12/34 (35.3%)
+Status: 🔴 CRITICAL IMPROVEMENTS NEEDED
+
+📊 OVERALL ANALYSIS
+----------------------------------------
+Section Performance: 112.7%
+
+🏆 TOP PERFORMERS:
+   • Spotlight Adoption: 15.15 vs 2.03 (+646.3%)
+   • Scanning Adoption: 18.80 vs 7.70 (+144.2%)
+   • Session Duration: 59.69 vs 47.70 (+25.1%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • User Base: 14.00 vs 1637.00 (-99.1%)
+   • DM Engagement: 1.40 vs 2.40 (-41.7%)
+   • Session Value: 308.80 vs 303.90 (+1.6%)
+
+📊 SPOTLIGHT ANALYSIS
+----------------------------------------
+Section Performance: -61.1%
+
+🏆 TOP PERFORMERS:
+   • Quick Actions Ratio: 1.00 vs 0.49 (+104.1%)
+   • Quick Actions Usage: 16.67 vs 18.05 (-7.6%)
+   • Recents Usage: 21.90 vs 41.90 (-47.7%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Search Efficiency: 0.00 vs 9.00 (-100.0%)
+   • Paste Button CTR: 0.00 vs 17.04 (-100.0%)
+   • Paste Adoption: 0.00 vs 6.80 (-100.0%)
+
+📊 DM ANALYSIS
+----------------------------------------
+Section Performance: -52.5%
+
+🏆 TOP PERFORMERS:
+   • Menu Usage: 20.00 vs 13.21 (+51.4%)
+   • Re-engagement Rate: 46.15 vs 41.53 (+11.1%)
+   • Session Duration: 27.00 vs 25.00 (+8.0%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Pin Usage: 0.00 vs 2.71 (-100.0%)
+   • Pin Adoption: 0.00 vs 4.61 (-100.0%)
+   • Long Press Adoption: 0.00 vs 6.57 (-100.0%)
+
+📊 HOME ANALYSIS
+----------------------------------------
+Section Performance: 3.4%
+
+🏆 TOP PERFORMERS:
+   • Scanner Usage Ratio: 68.00 vs 65.77 (+3.4%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Scanner Usage Ratio: 68.00 vs 65.77 (+3.4%)
+
+📊 BUBBLE ANALYSIS
+----------------------------------------
+Section Performance: 2.2%
+
+🏆 TOP PERFORMERS:
+   • Transaction Rate: 2.80 vs 1.60 (+75.0%)
+   • Payment Conversion: 0.40 vs 0.50 (-20.0%)
+   • Bubble Adoption: 70.59 vs 91.50 (-22.9%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • Average Transaction Size: 295.70 vs 385.70 (-23.3%)
+   • Bubble Adoption: 70.59 vs 91.50 (-22.9%)
+   • Payment Conversion: 0.40 vs 0.50 (-20.0%)
+
+📊 PAYMENT ANALYSIS
+----------------------------------------
+Section Performance: -23.9%
+
+🏆 TOP PERFORMERS:
+   • Bubble Transaction Rate: 2.80 vs 1.60 (+75.0%)
+   • Average Transaction Size: 295.70 vs 385.70 (-23.3%)
+   • Payment Completion Time: 28.00 vs 53.00 (-47.2%)
+
+⚠️ IMPROVEMENT OPPORTUNITIES:
+   • DM Payment Usage: 0.00 vs 2.53 (-100.0%)
+   • Payment Completion Time: 28.00 vs 53.00 (-47.2%)
+   • Average Transaction Size: 295.70 vs 385.70 (-23.3%)
+
+💡 STRATEGIC RECOMMENDATIONS
+----------------------------------------
+1. PRIORITY FOCUS: Spotlight
+   - Current performance: -61.1%
+   - Requires immediate attention and resource allocation
+
+2. LEVERAGE STRENGTHS: Overall
+   - Current performance: 112.7%
+   - Scale successful practices to other areas
+
+3. MONITORING & OPTIMIZATION:
+   - Implement weekly performance tracking
+   - Set up automated alerts for significant changes
+   - Regular A/B testing for improvement opportunities
+
+💼 BUSINESS IMPACT ASSESSMENT
+----------------------------------------
+TPAP Cohort Size: 14 users
+Risk Level: MEDIUM - Performance gaps affecting engagement

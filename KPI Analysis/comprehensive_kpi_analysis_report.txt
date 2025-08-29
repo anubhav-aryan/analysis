@@ -1,0 +1,155 @@
+====================================================================================================
+📊 COMPREHENSIVE KPI PERFORMANCE TIER ANALYSIS REPORT
+====================================================================================================
+
+🎯 EXECUTIVE SUMMARY
+--------------------------------------------------
+Analysis Scope: 49 KPIs across 13 cohorts
+Benchmark: Combine All
+
+🏆 TOP PERFORMER: Both
+   Champion Rate: 41.9% of KPIs
+   Total KPIs: 31
+
+🏆 PERFORMANCE TIER BREAKDOWN
+--------------------------------------------------
+
+CONSISTENT CHAMPIONS:
+   1. Both
+      Champion Rate: 41.9%
+      Strong Rate: 9.7%
+
+SPECIALIZED CHAMPIONS:
+   1. Rep Set
+      Champion Rate: 28.1%
+      Strong Rate: 15.6%
+   2. 18+
+      Champion Rate: 25.7%
+      Strong Rate: 20.0%
+   3. TPAP
+      Champion Rate: 19.4%
+      Strong Rate: 6.5%
+   4. Android
+      Champion Rate: 19.4%
+      Strong Rate: 6.5%
+   5. IOS 
+      Champion Rate: 16.1%
+      Strong Rate: 12.9%
+
+INCONSISTENT PERFORMERS:
+   1. SLS 
+      Champion Rate: 6.5%
+      Strong Rate: 25.8%
+   2. Ultra Users
+      Champion Rate: 3.0%
+      Strong Rate: 15.2%
+   3. Combine All
+      Champion Rate: 0.0%
+      Strong Rate: 0.0%
+   4. 18-
+      Champion Rate: 0.0%
+      Strong Rate: 14.3%
+   5. PPI
+      Champion Rate: 0.0%
+      Strong Rate: 12.9%
+   6. DM
+      Champion Rate: 0.0%
+      Strong Rate: 12.9%
+   7. Bubble
+      Champion Rate: 0.0%
+      Strong Rate: 12.9%
+
+
+📊 TOP KPI PERFORMANCE GAPS
+--------------------------------------------------
+
+1. user scanning / total users coming to home (user wise)
+   Champion: Android (+711.7%)
+   Worst: PPI (-28.6%)
+   Performance Gap: 740.3 percentage points
+
+2. users opening spotlight / total users coming to home
+   Champion: TPAP (+646.3%)
+   Worst: PPI (-28.6%)
+   Performance Gap: 674.9 percentage points
+
+3. % of UPI transactions initiated from DM vs Home screen
+   Champion: Android (+154.9%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 254.9 percentage points
+
+4. % of DM users using pins at least once (adoption)
+   Champion: Rep Set (+152.3%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 252.3 percentage points
+
+5. recent bubble txn %
+   Champion: Rep Set (+187.5%)
+   Worst: IOS  (-43.8%)
+   Performance Gap: 231.2 percentage points
+
+6. Avg. time from input entered → payment compose (search efficiency)
+   Champion: Ultra Users (+88.9%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 188.9 percentage points
+
+7. Messages sent per session (to understand engagement depth)
+   Champion: Both (+88.2%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 188.2 percentage points
+
+8. Average clicks on 3 dots per day per user
+   Champion: 18+ (+102.1%)
+   Worst: Rep Set (-82.4%)
+   Performance Gap: 184.5 percentage points
+
+9. Paste button shown ⇒ Paste button clicked
+   Champion: IOS  (+67.7%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 167.7 percentage points
+
+10. Average clicks on pinned conversations per day per user
+   Champion: 18+ (+51.3%)
+   Worst: TPAP (-100.0%)
+   Performance Gap: 151.3 percentage points
+
+
+💡 STRATEGIC RECOMMENDATIONS
+--------------------------------------------------
+
+1. IMMEDIATE ACTIONS:
+
+2. SCALE SUCCESS:
+   • Scale Both practices (41.9% champion rate)
+
+3. OPTIMIZE OPPORTUNITIES:
+   • Fix user scanning / total users coming to ho... (740.3% gap)
+   • Fix users opening spotlight / total users co... (674.9% gap)
+   • Fix % of UPI transactions initiated from DM ... (254.9% gap)
+
+4. PORTFOLIO OPTIMIZATION:
+   • Balance investment across consistent vs specialized champions
+   • Develop backup champions for risk mitigation
+   • Establish performance monitoring systems
+
+
+💼 BUSINESS IMPACT ASSESSMENT
+--------------------------------------------------
+
+Overall Performance Distribution:
+   Champion: 51 instances (11.8%)
+   Strong: 53 instances (12.3%)
+   Moderate: 198 instances (45.9%)
+   Weak: 56 instances (13.0%)
+   Critical: 73 instances (16.9%)
+
+Portfolio Health Score: 83.1/100
+Excellence Rate: 11.8%
+Risk Rate: 16.9%
+
+
+⚠️ RISK ASSESSMENT
+--------------------------------------------------
+
+⚠️ PORTFOLIO RISK: MEDIUM
+   Critical rate (16.9%) requires monitoring

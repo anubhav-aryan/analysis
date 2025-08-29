@@ -1,0 +1,49 @@
+================================================================================
+📊 OVERALL VS ULTRA USERS COMPREHENSIVE COMPARISON REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+Champion: Combine All (+0.0% avg performance)
+Needs Focus: Ultra Users (-5.8% avg performance)
+Performance Gap: 5.8 percentage points
+
+📊 DETAILED COMPARISON ANALYSIS
+----------------------------------------
+🏆 FEATURE WINS LEADERBOARD:
+   1. Combine All: 18/33 wins (54.5%)
+   2. Ultra Users: 15/33 wins (45.5%)
+
+📊 TOP PERFORMANCE GAPS:
+   1. % of UPI transactions initiated from DM vs Home screen
+      Combine All outperforms Ultra Users by 251.4%
+   2. Avg. time from input entered → payment compose (search efficiency)
+      Ultra Users outperforms Combine All by 88.9%
+   3. avg time spent in dm per day
+      Combine All outperforms Ultra Users by 64.4%
+   4. Unique users clicks on send message button per day
+      Combine All outperforms Ultra Users by 54.3%
+   5. Messages sent per session (to understand engagement depth)
+      Combine All outperforms Ultra Users by 41.7%
+
+💡 STRATEGIC RECOMMENDATIONS
+----------------------------------------
+1. LEVERAGE SUCCESS PATTERNS:
+   - Scale Combine All practices across organization
+   - Identify and document Combine All success factors
+
+2. ADDRESS CRITICAL GAPS:
+   - Priority focus on Ultra Users performance issues
+   - Urgent attention to % of UPI transactions initiated from DM vs Home screen
+
+3. OPTIMIZATION OPPORTUNITIES:
+   - Implement cross-cohort learning programs
+   - Establish performance monitoring dashboards
+   - Regular comparative analysis reviews
+
+💼 BUSINESS IMPACT ASSESSMENT
+----------------------------------------
+Combine All: 1,637 users (+0.0% performance)
+Ultra Users: 1,279 users (-5.8% performance)
+Total Users Analyzed: 2,916
+Weighted Performance Impact: -2.5%

@@ -1,0 +1,51 @@
+================================================================================
+📊 PPI VS TPAP VS BOTH COMPREHENSIVE COMPARISON REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+Champion: Both (+30.1% avg performance)
+Needs Focus: TPAP (-14.0% avg performance)
+Performance Gap: 44.0 percentage points
+
+📊 DETAILED COMPARISON ANALYSIS
+----------------------------------------
+🏆 FEATURE WINS LEADERBOARD:
+   1. Both: 14/31 wins (45.2%)
+   2. PPI: 12/31 wins (38.7%)
+   3. TPAP: 5/31 wins (16.1%)
+
+📊 TOP PERFORMANCE GAPS:
+   1. Total Users
+      PPI outperforms TPAP by 10000.0%
+   2. Daily absolute numbers for both swipe
+      PPI outperforms TPAP by 9966.7%
+   3. Daily absolute numbers for both tap
+      PPI outperforms TPAP by 7871.4%
+   4. users opening spotlight / total users coming to home
+      TPAP outperforms PPI by 944.8%
+   5. user scanning / total users coming to home (user wise)
+      Both outperforms PPI by 592.7%
+
+💡 STRATEGIC RECOMMENDATIONS
+----------------------------------------
+1. LEVERAGE SUCCESS PATTERNS:
+   - Scale Both practices across organization
+   - Identify and document Both success factors
+
+2. ADDRESS CRITICAL GAPS:
+   - Priority focus on TPAP performance issues
+   - Urgent attention to Total Users
+
+3. OPTIMIZATION OPPORTUNITIES:
+   - Implement cross-cohort learning programs
+   - Establish performance monitoring dashboards
+   - Regular comparative analysis reviews
+
+💼 BUSINESS IMPACT ASSESSMENT
+----------------------------------------
+PPI: 1,414 users (-9.6% performance)
+TPAP: 14 users (-14.0% performance)
+Both: 194 users (+30.1% performance)
+Total Users Analyzed: 1,622
+Weighted Performance Impact: -4.9%

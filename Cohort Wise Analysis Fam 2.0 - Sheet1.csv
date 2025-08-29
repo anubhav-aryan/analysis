@@ -1,0 +1,67 @@
+Cohort Wise Data,Combine All,18+,18-,Ultra Users,Rep Set,PPI,TPAP,Both,IOS ,Android,SLS ,DM,Bubble
+Overall,,,,,,,,,,,,,
+Total Users,1637,259,1373,1279,58,1414,14,194,608,1398,1219,1332,1897
+DAU (increase %),23.37%,8.66%,27.92%,,,,,,,,,,
+DTU,20.27%,12.77%,21.82%,,,,,,,,,,
+Median SPV (TS),303.9,343.6,298.3,311.8,327.9,295.7,308.8,490.5,392.4,272.1,315.8,312.4,302.2
+Avg Time Spent per session ,47.7 secs,51.14 secs,47.07 secs,46.96 secs,45.3 secs,47.94,59.69,47.28,44.41,50.21,48,48.6,48.54
+user scanning / total users coming to home (user wise),7.70%,16.20%,5.90%,8.20%,21.20%,5.50%,18.80%,38.10%,6.80%,62.50%,8.20%,7.20%,7.00%
+avg dm session per day,2.4,3.8,2.1,2.1,2.6,2.1,1.4,2.8,2.4,2.4,2.6,2.4,2.4
+avg time spent in dm per day,47.68 secs,32 secs,27 secs,29 secs,25 secs,,,,,,,,
+users opening spotlight / total users coming to home,2.03%,4.07%,1.55%,1.69%,9.16%,1.45%,15.15%,12.03%,1.98%,6.14%,2.77%,2.27%,2.06%
+opening the spotlight → Payment compose,50.76%,48.41%,50.94%,55.88%,42.86%,,,,,,,,
+time to pay per user per pay session,53 secs,49 secs,54 secs,55 secs,44 secs,55 secs,28 secs,28 secs,33 secs,1.2 mins,56 secs,55 secs,54 secs
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Spotlight,,,,,,,,,,,,,
+Daily absolute numbers for both swipe,111,21.4,88.5,85.4,3.6,90.6,0.9,19.3,28.3,83.4,111,100.6,109.6
+Daily absolute numbers for both tap,217.9,36,180.6,174.5,5.4,55.8,0.7,18,16.8,57.7,74.9,69.6,73
+Input entered ⇒ Clicked on contacts ⇒ Clicked on resolved VPA ⇒ Payment compose,,,,,,,,,,,,,
+Avg. time from input entered → payment compose (search efficiency),9 secs,8 sec,10 sec,17 sec,1.4 min,10 sec,0 sec,7 sec,9 sec,9 sec,9 sec,9 sec,9 sec
+Input entered ⇒ Clicked on contacts ⇒ Clicked on resolved VPA ⇒ Payment compose,,,,,,,,,,,,,
+Paste button shown ⇒ Paste button clicked,17.04%,17.21%,17.16%,17.05%,19.23%,16.45%,0%,20.66%,28.57%,14.63%,17.04%,17.68%,16.67%
+% of SS sessions where paste button was clicked (adoption),6.80%,9.30%,6.10%,6.50%,1.30%,6.80%,0%,6.60%,9.40%,5.80%,6.80%,6.70%,6.60%
+% of SS sessions where number button was clicked (adoption),5.95%,6.63%,5.89%,6.01%,2.86%,5.98%,0%,6.25%,8.55%,5.06%,5.95%,6.52%,5.97%
+SS open ⇒ Recents clicks,41.90%,25.40%,47.60%,45.30%,44.40%,46.40%,21.90%,28.60%,39.70%,43.00%,35.50%,42.20%,42.60%
+Quick actions clicked vs In-app purchases clicked (ratio),0.49,0.38,0.5,0.51,1,0.53,1,0.26,0.43,0.51,0.49,0.49,0.48
+% of SS sessions with quick actions usage,18.05%,17.46%,18.24%,18.29%,14.10%,17.09%,16.67%,22.86%,17.84%,18.09%,18.05%,18.39%,18.26%
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Home,,,,,,,,,,,,,
+Full Screen Scanner / Home Screen Scanner,65.77%,74.84%,65.77%,69.83%,80.21%,65.79%,68%,75.19%,70.05%,91.09%,70.35%,69.85%,69.85%
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+DM Dashboard,,,,,,,,,,,,,
+Avg. time spent per DM session (from DM open to last event),25 secs,28 secs,24 secs,26 secs,21 secs,24 secs,27 secs,32secs,12 secs,35 secs,25 secs,25 secs,25 secs
+% of DM sessions with repeat opens in the same day (re-engagement within a day),41.53%,56.30%,36.78%,36.29%,41.55%,36.84%,46.15%,57.67%,38.33%,42.91%,42.83%,41.53%,41.51%
+Average clicks on pinned conversations per day per user,2.71,4.1,2.5,2.49,3.2,2.42,0,3.73,2.88,2.63,2.77,2.71,2.71
+% of DM users using pins at least once (adoption),4.61%,4.52%,4.50%,4.04%,11.63%,4.12%,0%,8.62%,5.59%,4.08%,5.35%,4.61%,4.72%
+Average clicks on 3 dots per day per user,13.21%,26.70%,10.68%,10.15%,2.33%,12.44%,20%,18.97%,13.12%,12.22%,16.05%,12.21%,13.53%
+% of DM users clicking on 3 dots at least once (adoption),5.97%,7.12%,5.71%,5.91%,1.82%,5.67%,6.25%,8.42%,5.08%,6.43%,6.85%,5.97%,6.14%
+Number of long press on conversation item per DM open,-,-,-,-,-,-,-,-,-,-,-,-,-
+% of users using long press at least once (adoption) [more important],6.57%,3.62%,7.07%,6.62%,0%,6.92%,0%,4.60%,7.31%,6.26%,7.27%,6.57%,6.66%
+Unique users opening chat page per day,-,-,-,-,-,-,-,-,-,-,-,-,-
+Graph Day on day Unique users opening chat page per day,-,-,-,-,-,-,-,-,-,-,-,-,-
+Unique users clicks on send message button per day,108,18,87,70,6,85,0,22,45,64,88,108,108
+Graph Day on day unique user clicks on send message button per day,,,,,,,,,,,,,
+Messages sent per session (to understand engagement depth),0.051,0.078,0.039,0.036,0.067,0.038,0,0.096,0.06,0.048,0.049,0.051,0.051
+Chat page open ⇒ Pay button clicked,,,,,,,,,,,,,
+% of UPI transactions initiated from DM vs Home screen,2.53%,1.96%,1.52%,0.72%,0%,1.37%,0%,2.53%,1.65%,6.45%,1.39%,1.75%,1.64%
+Graph Day on day text messages sent per user,,,,,,,,,,,,,
+Graph Week on week text messages sent per user,,,,,,,,,,,,,
+Ratio of text messages to payment messages per user per day,-,-,-,-,-,-,-,-,-,-,-,-,-
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Bubble,,,,,,,,,,,,,
+Bubble Click Breakdown (Type Wise),-,-,-,-,-,-,-,-,-,-,-,-,-
+"Graph Type of Bubble Clicked (Shortcuts, Recent, In-App Purchases)",-,-,-,-,-,-,-,-,-,-,-,-,-
+Recents bubbles vs Other Bubbles Clicked,,,,,,,,,,,,,
+Graph Recent Bubble to Debit Payment Conversions,,,,,,,,,,,,,
+Recent Ticket Size,385.7,427.3,379,417.4,536.9,387.3,295.7,378.6,347.5,397,395,394.8,385.7
+No. of recent payment per recent click,0.5,0.5,0.5,0.5,0.7,0.5,0.4,0.5,0.4,0.5,0.5,0.5,0.5
+recent bubble txn %,1.60%,2.20%,1.40%,1.50%,4.60%,1.40%,2.80%,2.80%,0.90%,2.10%,1.80%,1.80%,1.70%
+% of users using bubbles / total exposed users,91.50%,76.19%,94.82%,93.64%,80.95%,94.33%,70.59%,78.07%,90.37%,92.46%,93.57%,94.61%,97.72%
