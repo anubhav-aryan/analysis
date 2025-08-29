@@ -1,0 +1,13 @@
+================================================================================
+💳 PAYMENT DEEP-DIVE ANALYSIS REPORT
+================================================================================
+
+🎯 EXECUTIVE SUMMARY
+----------------------------------------
+High Priority Issues: 0 cohorts
+Biggest Gap: TPAP (100.0% slower)
+
+🚨 TOP EFFICIENCY GAPS:
+1. TPAP: 100.0% gap
+2. Android: 97.7% gap
+3. Ultra Users: 88.9% gap
